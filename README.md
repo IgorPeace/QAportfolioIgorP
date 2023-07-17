@@ -25,11 +25,9 @@
 <p>Как решал:Создавал, редактировал, удалял события с разными данными - валидные и невалидные.<p>
 
 
-> <a href="https://gg-report.atlassian.net/wiki/spaces/1/pages/819264/-+Skyeng+Teachers+1-+2-">Ссылка на проект</a>
+> <a href="https://drive.google.com/drive/folders/1r9Rp4zZepylcpmD0cadi5x_tBcsa_WPl?usp=sharing">Ссылка на проект</a>
 
-> <p> логин: chaynik33rus@gmail.com </p>
 
-> <p> пароль: йцукен159357 </p>
 
 <p>Выводы (итоги):<p>
 
