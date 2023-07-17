@@ -31,7 +31,7 @@
 
 <p>Выводы (итоги):<p>
 
-> <a href="https://gg-report.atlassian.net/wiki/spaces/1/pages/786766">Ссылка на проект</a>
+> <a href="https://docs.google.com/document/d/1zTaNtQqZeavfpUJM4U5USue13Z6HUqEr/edit?usp=sharing&ouid=102348553766348886866&rtpof=true&sd=true">Ссылка на проект</a>
 
 ## Контактная информация
 
