@@ -35,4 +35,4 @@
 
 ## Контактная информация
 
-- Email: chaynik33rus@gmail.com
+- Email: pikunovqa@gmail.com
